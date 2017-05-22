@@ -57,3 +57,14 @@ typings/
 # dotenv environment variables file
 .env
 
+#----------------------------------------------
+# custom directories
+.vscode/
+playground/
+
+# data files
+
+# settings files
+#.eslintrc
+.editorconfig
+.jsbeautifyrc
