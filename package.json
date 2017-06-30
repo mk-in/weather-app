@@ -1,28 +1,29 @@
 {
-    "name": "weather-app",
-    "version": "1.0.0",
-    "description": "Weather app",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/mk-in/weather-app.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/mk-in/weather-app/issues"
-    },
-    "homepage": "https://github.com/mk-in/weather-app#readme",
-    "dependencies": {
-        "request": "^2.81.0",
-        "yargs": "^8.0.1"
-    },
-    "devDependencies": {
-        "eslint": "^3.19.0",
-        "eslint-config-google": "^0.7.1",
-        "eslint-config-rallycoding": "^3.2.0"
-    }
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-in/weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mk-in/weather-app/issues"
+  },
+  "homepage": "https://github.com/mk-in/weather-app#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "request": "^2.81.0",
+    "yargs": "^8.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1",
+    "eslint-config-rallycoding": "^3.2.0"
+  }
 }
